@@ -6,7 +6,7 @@
 }
 
 body {
-  background: #0f172a;
+  background: #0f172b;
   color: white;
 }
 
@@ -36,12 +36,12 @@ nav a {
 
 .hero h1 {
   font-size: 3rem;
-  margin-bottom: 20px;
+  margin-bottom: 24px;
 }
 
 .hero p {
   color: #cbd5e1;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 .btn {
@@ -156,11 +156,11 @@ nav a:hover {
 }
 
 .btn {
-  background: #3b82f6;
+  background: red;
   color: white;
   border: none;
-  padding: 10px 18px;
-  border-radius: 8px;
+  padding: 12px 19px;
+  border-radius: 9px;
   cursor: pointer;
   transition: all 0.3s ease;
 }
@@ -178,7 +178,7 @@ nav a:hover {
 .light-mode nav,
 .light-mode .card,
 .light-mode footer {
-  background: #ffffff;
+  background: #fffff7;
   color: #111827;
 }
 
