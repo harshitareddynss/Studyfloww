@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Study Flow | Quiz</title>
+  <link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="../css/responsive.css">
+<script src="../js/dashboard.js" ></script>
+  <script src="../js/quiz.js" ></script>
+  <script src="js/app.js"></script>
+</head>
+<body>
+
+<nav>
+  <h2>📚 Study Flow</h2>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="learning.html">Learn</a></li>
+    <li><a href="quiz.html">Quiz</a></li>
+    <li><a href="roadmap.html">Roadmap</a></li>
+    <li><a href="dashboard.html">Dashboard</a></li>
+  </ul>
+</nav>
+
+<section class="hero">
+  <h1>Quick Knowledge Check 🧠</h1>
+  <p>Answer the questions and see your score instantly.</p>
+</section>
+
+<div class="cards">
+  <div class="card" style="max-width:700px; width:100%; text-align:left;">
+
+  <p><strong>1. What does HTML stand for?</strong></p>
+<label><input type="radio" name="q1" value="1"> Hyper Text Markup Language</label><br>
+<label><input type="radio" name="q1" value="0"> High Tech Machine Language</label><br><br>
+
+    <p><strong>2. Which language is used for styling web pages?</strong></p>
+<label><input type="radio" name="q2" value="1"> CSS</label><br>
+<label><input type="radio" name="q2" value="0"> Java</label><br><br>
+
+ <p><strong>3. Which language adds interactivity to websites?</strong></p>
+<label><input type="radio" name="q3" value="1"> JavaScript</label><br>
+<label><input type="radio" name="q3" value="0"> SQL</label><br><br>
+
+  <p><strong>4. Git is mainly used for?</strong></p>
+<label><input type="radio" name="q4" value="1"> Version Control</label><br>
+<label><input type="radio" name="q4" value="0"> Video Editing</label><br><br>
+
+<p><strong>5. GitHub is used to?</strong></p>
+<label><input type="radio" name="q5" value="1"> Host Repositories</label><br>
+<label><input type="radio" name="q5" value="0"> Create Spreadsheets</label><br><br>
+
+    <button class="btn" onclick="checkQuiz()">Submit Quiz</button>
+
+    <h2 id="result" style="margin-top:20px;"></h2>
+
+  </div>
+</div>
+
+<script src="js/quiz.js"></script>
+<footer style="text-align:center;padding:20px;margin-top:40px;background:#1e293b;">
+  <p>Made with ❤️ by Team Study Flow</p>
+</footer>
+</body>
+</html>
