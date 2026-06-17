@@ -1,18 +1,24 @@
-Spark, here’s a **better and more professional project description** for your README in the same format:
+Team NOVA
+Team Members:
+1.N.S.S.Harshita Reddy
+2.M.Joshna Sri
+S.Meghana
 
-## Project Description
 
-**Learnify** is a beginner-friendly web learning platform designed to help users start their web development journey in a simple and interactive way. The application provides structured learning paths, topic-based lessons, quizzes, and progress tracking to make learning more engaging. Users can explore technologies like HTML, CSS, JavaScript, Git, and GitHub while testing their knowledge through quizzes and monitoring their improvement with a dashboard.
 
-### Features
+*Project Description
 
-#### Home
+-StudyFlow is a beginner-friendly web learning platform designed to help users start their web development journey in a simple and interactive way. The application provides structured learning paths, topic-based lessons, quizzes, and progress tracking to make learning more engaging. Users can explore technologies like HTML, CSS, JavaScript, Git, and GitHub while testing their knowledge through quizzes and monitoring their improvement with a dashboard.
+
+* Features
+
+Home
 
 * Attractive hero section
 * Get Started button for easy navigation
 * Feature cards highlighting platform benefits
 
-#### Learning
+ Learning
 
 * Beginner-friendly lessons on:
 
@@ -23,31 +29,28 @@ Spark, here’s a **better and more professional project description** for your 
   * GitHub
   * Mini Projects
 
-#### Quiz
+ Quiz
 
 * Multiple-choice questions for practice
 * Instant score calculation
 * Submit button for quiz completion
 
-#### Roadmap
+ Roadmap
 
 A structured learning path to guide beginners:
 
 **HTML → CSS → JavaScript → Git → GitHub → Build Projects**
-
-#### Dashboard
+ Dashboard
 
 * Learning streak tracking
 * Completed lessons count
 * Quiz performance display
 * Progress bar to monitor growth
 
-### Technologies Used
+Technologies Used
 
 * HTML
 * CSS
 * JavaScript
 * Git
 * GitHub
-
-This version looks more **professional, hackathon-ready, and README-friendly** while still matching your current format.
